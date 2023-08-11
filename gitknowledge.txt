@@ -1,0 +1,13 @@
+this is first test using github
+
+langkah langkah commit:
+1. buat directory di local
+2. masuk ke directory
+3. open gitbash ketik : git init = fungsinya untuk membuat git sub directory di directoryna 
+untuk commit ke github
+4.type: git status = untuk mechek status file di directory
+5.type: git add = berfungsi untuk menanmbahkan git file sistem kesemua git add "nama file" untuk spesifik
+6.type: git commit -m "koment apa ja" = untuk commit semua file di local yang sudah di add pakai git add tadi
+ini baru di locat
+7.type: git push origin master = untuk push ke remote repository
+
